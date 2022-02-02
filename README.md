@@ -3,7 +3,7 @@
 
 # The Vanilla Dashboard Project
 
-The Vanilla Dashboard is a Vanilla JavaScript dashboard that connects to a.txt file-based database through PHP. Vanilla Dashboard is free and open source software. 
+[🍦] The Vanilla Dashboard is a Vanilla JavaScript dashboard that connects to a.txt file-based database through PHP. Vanilla Dashboard is free and open source software. 
 
 The Vanilla Dashboard is a free and open-source project, and comes with Vanilla, "Live Chat," and "Who Is Online" services baked in, as well as a variety of "Easter Eggs," all wrapped up in a Vanilla CSS UI.
 
