@@ -10,8 +10,7 @@ The Vanilla Dashboard is a free and open-source project, and comes with Vanilla,
 ## Installation
 
 # Lando
-
-Plug & Play "Out-of-the-Box" on PHP compatible environments, alternatively the project includes a LAMP recipe for Lando - A Liberating Dev Tool For All Your Projects. The local development and DevOps tool trusted by professional developers across the galaxy. Free yourself from the mind-forged manacles of lesser dev tools. Save time, headaches, frustration and do more real work.
+You may either "plug and play" on PHP-compatible machines or build in a LAMP environment using the project's LAMP recipe for Lando - A Liberating Dev Tool For All Your Projects, which can be found here. If you want to learn more about the project, check out the FAQ. The use of local development and DevOps technologies by professional developers is widespread around the globe, while it is most prominent in the United States. Release oneself from the mental restrictions imposed by inadequate software for development. You may be able to save time, money, and frustration if you concentrate your efforts on the most important tasks.
 
 ![image](https://user-images.githubusercontent.com/6468571/152177774-25482b2a-f8cd-4f19-a221-97dc29212a2d.png)
 
@@ -42,8 +41,7 @@ For more information please see: https://docs.lando.dev/config/lamp.html
 
 # Gitpod
 
-
-Gitpod is an open-source Kubernetes application for ready-to-code developer environments that spins up fresh, automated dev environments for each task, in the cloud, in seconds. It enables you to describe your dev environment as code and start instant, remote and cloud-based developer environments directly from your browser or your Desktop IDE.
+Gitpod is an open-source Kubernetes tool for quickly establishing code-ready development environments. It produces fresh, automated development environments in the cloud for each work utilising cloud-based technologies. And it does all of this in the cloud. It enables you to declare your development environment in code, as well as to launch immediate, remote, and cloud-based development environments directly from your browser or desktop integrated development environment.
 
 https://gitpod.com/#https://github.com/donPabloNow/vanilla-dashboard
 
@@ -56,12 +54,9 @@ Navigate to the root of the project with your browser, register an account and t
 ![image](https://user-images.githubusercontent.com/6468571/152178601-981f8e64-a22e-4278-89dd-46e2c39ee77f.png)
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Pull requests are evaluated and approved by the development team. If you want to talk about the changes you want to make, please create a new issue for that purpose. If possible, please ensure that tests are updated on a regular basis in order to avoid misconceptions.
 
 ![image](https://user-images.githubusercontent.com/6468571/152178640-266dfe32-62c2-4ad2-a2c9-2096af248e18.png)
-
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
