@@ -92,6 +92,3 @@ Pull requests are evaluated and approved by the development team. If you want to
 ## Licensing and Ownership
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-![image](https://user-images.githubusercontent.com/6468571/152183090-c457eef1-61ba-4598-8f8b-5fc93e8054da.png)
-![image](https://user-images.githubusercontent.com/6468571/152183346-53cfe1e3-8a79-40e7-af06-0d892c8969d5.png)
