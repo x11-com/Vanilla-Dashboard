@@ -1,4 +1,6 @@
 
+![image](https://user-images.githubusercontent.com/6468571/152180948-7c0b5986-8e19-4fb0-8da2-34602d6bb5da.png)
+
 # Vanilla Dashboard
 
 The Vanilla Dashboard is a Vanilla JavaScript dashboard that connects to a.txt file-based database through PHP. Vanilla Dashboard is free and open source software. 
@@ -6,6 +8,8 @@ The Vanilla Dashboard is a Vanilla JavaScript dashboard that connects to a.txt f
 The Vanilla Dashboard is a free and open-source project, and comes with Vanilla, "Live Chat," and "Who Is Online" services baked in, as well as a variety of "Easter Eggs," all wrapped up in a Vanilla CSS UI.
 
 ![image](https://user-images.githubusercontent.com/6468571/152177506-be7b0c78-3395-4064-bb39-b949aac924ff.png)
+
+![image](https://user-images.githubusercontent.com/6468571/152180986-20e0beb1-c098-421b-b71a-e8cfc01aa170.png)
 
 ## Installation
 
@@ -47,16 +51,22 @@ https://gitpod.com/#https://github.com/donPabloNow/vanilla-dashboard
 
 ![image](https://user-images.githubusercontent.com/6468571/152177615-421c1286-33cd-4c38-9f7b-3c486901ba81.png)
 
+![image](https://user-images.githubusercontent.com/6468571/152181058-6446dd76-3012-4e9f-b05a-7d86ca5d0872.png)
+
 ## Usage
 
 Navigate to the root of the project with your browser, register an account and then login.
 
 ![image](https://user-images.githubusercontent.com/6468571/152178601-981f8e64-a22e-4278-89dd-46e2c39ee77f.png)
 
+![image](https://user-images.githubusercontent.com/6468571/152181096-2b8db6ac-337c-48be-849b-4bca24e4a39b.png)
+
 ## Contributing
 Pull requests are evaluated and approved by the development team. If you want to talk about the changes you want to make, please create a new issue for that purpose. If possible, please ensure that tests are updated on a regular basis in order to avoid misconceptions.
 
 ![image](https://user-images.githubusercontent.com/6468571/152178640-266dfe32-62c2-4ad2-a2c9-2096af248e18.png)
+
+![image](https://user-images.githubusercontent.com/6468571/152181124-d8d43105-8525-4220-ab91-a4caf933634b.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
