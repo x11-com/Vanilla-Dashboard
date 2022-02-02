@@ -47,6 +47,10 @@ For more information please see: https://docs.lando.dev/config/lamp.html
 
 ![image](https://user-images.githubusercontent.com/6468571/152178164-3cf9d286-6ca2-407e-8f62-50fc4d217a6b.png)
 
+
+![image](https://user-images.githubusercontent.com/6468571/152181962-33e4e658-5fbc-4b2d-9366-7147e9fabe65.png)
+
+
 # Gitpod
 
 Gitpod is an open-source Kubernetes tool for quickly establishing code-ready development environments. It produces fresh, automated development environments in the cloud for each work utilising cloud-based technologies. And it does all of this in the cloud. It enables you to declare your development environment in code, as well as to launch immediate, remote, and cloud-based development environments directly from your browser or desktop integrated development environment.
@@ -89,4 +93,5 @@ Pull requests are evaluated and approved by the development team. If you want to
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![image](https://user-images.githubusercontent.com/6468571/152179060-9dc212dd-98e8-4e27-bb05-2211587244a4.png)
+![image](https://user-images.githubusercontent.com/6468571/152183090-c457eef1-61ba-4598-8f8b-5fc93e8054da.png)
+
