@@ -9,11 +9,11 @@ The Vanilla Dashboard is a free and open-source project, and comes with Vanilla,
 
 ![image](https://user-images.githubusercontent.com/6468571/152177506-be7b0c78-3395-4064-bb39-b949aac924ff.png)
 
-![image](https://user-images.githubusercontent.com/6468571/152180986-20e0beb1-c098-421b-b71a-e8cfc01aa170.png)
-
 
 ![image](https://user-images.githubusercontent.com/6468571/152181888-0b505d28-41c9-4d17-bf4d-9cb3b3411e67.png)
 
+
+![image](https://user-images.githubusercontent.com/6468571/152180986-20e0beb1-c098-421b-b71a-e8cfc01aa170.png)
 
 ## Installation Instructions
 
@@ -55,11 +55,11 @@ https://gitpod.com/#https://github.com/donPabloNow/vanilla-dashboard
 
 ![image](https://user-images.githubusercontent.com/6468571/152177615-421c1286-33cd-4c38-9f7b-3c486901ba81.png)
 
-![image](https://user-images.githubusercontent.com/6468571/152181058-6446dd76-3012-4e9f-b05a-7d86ca5d0872.png)
-
 
 ![image](https://user-images.githubusercontent.com/6468571/152181932-88f8e56c-b479-478a-8e38-06150cf4ef3e.png)
 
+
+![image](https://user-images.githubusercontent.com/6468571/152181058-6446dd76-3012-4e9f-b05a-7d86ca5d0872.png)
 
 ## Usage & How to Guide
 
@@ -67,11 +67,11 @@ Navigate to the root of the project with your browser, register an account and t
 
 ![image](https://user-images.githubusercontent.com/6468571/152178601-981f8e64-a22e-4278-89dd-46e2c39ee77f.png)
 
-![image](https://user-images.githubusercontent.com/6468571/152181096-2b8db6ac-337c-48be-849b-4bca24e4a39b.png)
-
 
 ![image](https://user-images.githubusercontent.com/6468571/152181949-99b9aaa6-586e-4f64-826d-ec7616535d1c.png)
 
+
+![image](https://user-images.githubusercontent.com/6468571/152181096-2b8db6ac-337c-48be-849b-4bca24e4a39b.png)
 
 ## Contributing to the Project
 
@@ -79,11 +79,11 @@ Pull requests are evaluated and approved by the development team. If you want to
 
 ![image](https://user-images.githubusercontent.com/6468571/152178640-266dfe32-62c2-4ad2-a2c9-2096af248e18.png)
 
-![image](https://user-images.githubusercontent.com/6468571/152181124-d8d43105-8525-4220-ab91-a4caf933634b.png)
-
 
 ![image](https://user-images.githubusercontent.com/6468571/152181962-33e4e658-5fbc-4b2d-9366-7147e9fabe65.png)
 
+
+![image](https://user-images.githubusercontent.com/6468571/152181124-d8d43105-8525-4220-ab91-a4caf933634b.png)
 
 ## Licensing and Ownership
 
